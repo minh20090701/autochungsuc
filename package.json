@@ -1,0 +1,1 @@
+{"name":"chungsuc-auto-cloudflare","version":"2.0.0","private":true,"type":"module","scripts":{"test":"node --test tests/api.test.mjs","dev":"npx wrangler pages dev public"},"engines":{"node":">=22"}}
